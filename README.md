@@ -66,8 +66,8 @@ A total of **7 models** were trained and evaluated:
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```bash
- git clone https://github.com/your-username/heart-disease-prediction.git
- cd heart-disease-prediction
+ git clone https://github.com/leviackerman007/Heart_Disease_Detection.git
+ cd Heart_Disease_Detection
 ```
 
 ### 2️⃣ Install Dependencies
